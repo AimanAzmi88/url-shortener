@@ -1,0 +1,5 @@
+# Ignore environment variables
+.env
+
+# Ignore Node.js dependencies (should not be committed)
+node_modules/
